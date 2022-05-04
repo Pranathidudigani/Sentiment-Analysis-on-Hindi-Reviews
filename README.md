@@ -17,3 +17,5 @@ We have used two approaches to classify the sentiment of hindi reviews as positi
 # Dataset
 We have used a total of 1000 Hindi movie reviews for Sentiment analysis. We have taken 250 labelled reviews from IIT-Bombay which contai 125 positive reviews and 125 negative reviews. In addition, we have manually collected 750 reviews from a Hindi movie review website(jagaran.com) and labelled them as positive or negative manually. Out of 750 reviews collected 375 reviews are positive and 375 reviews are negative.
 
+# Result
+Resource Based classification is a simple binary classification which resulted with an accuracy of 54%. The unigram model in in language classification resulted with an accuracy of70% using voting classifier and the TF-IDF model of In language classification resulted with best accuracy of 90.85% using decision tree classifier which is higher than the unigram model.
