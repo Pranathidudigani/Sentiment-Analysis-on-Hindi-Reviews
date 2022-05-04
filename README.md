@@ -9,7 +9,7 @@
 5. pickle
 6. codecs
 
-# Problem
+# Methods
 We have used two approaches to classify the sentiment of hindi reviews as positive or negative.
 1. RESOURCE BASED CLASSIFICATION using H-SWN: In this approach we used Hindi-SentiWordNet to classify the sentiment of hindi movie reviews.
 2. IN LANGUAGE CLASSIFICATION using various classifiers: This approach is semantic analysis based on training the classifiers on the same language as text.
