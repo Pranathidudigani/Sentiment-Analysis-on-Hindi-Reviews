@@ -18,4 +18,8 @@ We have used two approaches to classify the sentiment of hindi reviews as positi
 We have used a total of 1000 Hindi movie reviews for Sentiment analysis. We have taken 250 labelled reviews from IIT-Bombay which contai 125 positive reviews and 125 negative reviews. In addition, we have manually collected 750 reviews from a Hindi movie review website(jagaran.com) and labelled them as positive or negative manually. Out of 750 reviews collected 375 reviews are positive and 375 reviews are negative.
 
 # How to Run
+1)Run on terminal 'python ResourceBasedSentimentClassification.py' to do the sentiment classification through HindiSentiwordnet. It is called Resource Based Semantic analysis.
+
+2)Run on terminal 'python classifiers.py' to do In language Semantic Analysis.
+  Run on terminal 'python dbn_neuralnet. to do In-language classification through Deep Belief Networks.
 
